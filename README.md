@@ -14,7 +14,6 @@ python-data-analysis/
 ├── data_analysis.py # Main Python script
 ├── requirements.txt # Dependencies
 ├── README.md # Documentation
-└── data_visualizations.png # Generated plots (after running code)
 
 
 ## 🛠️ Installation & Setup
